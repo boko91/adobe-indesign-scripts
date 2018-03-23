@@ -1,1 +1,3 @@
-"# adobe-indesign-scripts" 
+# adobe-indesign-scripts"
+
+Useful scripts for Adobe InDesign CC

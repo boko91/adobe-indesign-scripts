@@ -6,7 +6,7 @@ for (var i=links.length-1; i>=0; i--) {
       // alert(oldname);
       // break;
       var newname = oldname.replace(".eps", ".ai");
-      // alert(newfile);
+      // alert(newname);
       // break;
       var newfile = File(newname);
       // alert(newfile);
